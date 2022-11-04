@@ -6,7 +6,7 @@ resource "digitalocean_domain" "tiagodfig7" {
 
 # Add a record to the domain
 resource "digitalocean_record" "www" {
-  domain = "${digitalocean_domain.tiagodfig7.com.name}"
+  domain = "${digitalocean_domain.tiagodfig7.name}"
   type   = "A"
   name   = "www"
   ttl    = "30"
