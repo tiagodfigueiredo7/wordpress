@@ -193,6 +193,17 @@ k apply -f 03-wordpress-deployment.yaml
 
 ```
 
+## Parte 5 - Acessando 
+
+
+![Web 1](https://github.com/tiagodfigueiredo7/assets/blob/main/Projeto%209/ScreenHunter%201938.png)
+
+![Web 1](https://github.com/tiagodfigueiredo7/assets/blob/main/Projeto%209/ScreenHunter%201939.png)
+
+
+
+
+
 
 
 
