@@ -15,5 +15,5 @@ resource "digitalocean_loadbalancer" "public" {
     protocol = "tcp"
   }
 
-  droplet_tag = "pelado-nodes"
+  droplet_tag = "tiagofigueiredo"
 }
